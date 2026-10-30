@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedhussein0907-pixel.github.io/MAH-STORE-/sitemap.xml
